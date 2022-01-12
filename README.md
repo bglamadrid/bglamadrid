@@ -9,7 +9,7 @@ I learn many things in hopes to eventually just develop many more 🦧! If that 
 
 I'm currently working at a tiny marketing/software consultancy startup named Agencia 33.
 
-Also, I develop an [open-source eCommerce stack named Trébol](https://github.com/trebol-ecommerce) (like 'treble', spanish for Clover), which is three things working together:
+Also, I develop an [open-source eCommerce stack named Trébol](https://github.com/trebol-ecommerce) (spanish for Clover, pronounced 'treble'), which is three things working together:
 - REST API specification
 - Angular frontend
 - Spring Boot backend
