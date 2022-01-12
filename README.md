@@ -1,5 +1,7 @@
 > Is it 2022 already?! Here's to a happy and sucessful year for all of us! Let's try and do our best! 😎
 
+![](https://komarev.com/ghpvc/?username=bglamadrid&color=brightgreen)
+
 __Greetings, beautiful people__ 👋
 
 Call me Benjamin, I'm a former IT consultant.
@@ -16,6 +18,4 @@ Also, I develop an [open-source eCommerce stack named Trébol](https://github.co
 
 I'm interested in a wide array of tech things, it just so happens that Internet is The Great Platform connecting most things today, and Web Browsers so happen to be the medium we all use the most, so the Web itself may be the single biggest community of them all. The Web is a great place to thrive, and its users are getting more and more into democratizing  knowledge; that's where I see future. Or at least that's my view on all of this.
 
-Anyway, technical debt is always around the corner, so **Let's GET to IT!!!**
-
-![](https://komarev.com/ghpvc/?username=bglamadrid&color=brightgreen)
+Anyway, technical debt is always around the corner, so **Let's GET To IT!!!**
