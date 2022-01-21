@@ -1,21 +1,27 @@
-> Is it 2022 already?! Here's to a happy and sucessful year for all of us! Let's try and do our best! 😎
-
 ![](https://komarev.com/ghpvc/?username=bglamadrid&color=brightgreen)
 
 __Greetings, beautiful people__ 👋
 
-Call me Benjamin, I'm a former IT consultant.
+Call me Benjamin, I'm a former IT/ETL consultant.
 
 Today I develop stuff for the web 💻💖
 I learn many things in hopes to eventually just develop many more 🦧! If that sounds crazy, it's because it probably is. [Just tell them that it's Human Nature](https://www.youtube.com/watch?v=ElN_4vUvTPs).
 
-I'm currently working at a tiny marketing/software consultancy startup named Agencia 33.
+I'm the CTO of a tiny marketing/software consultancy company based in Chile.
 
-Also, I develop an [open-source eCommerce stack named Trébol](https://github.com/trebol-ecommerce) (spanish for Clover, pronounced 'treble'), which is three things working together:
+I also develop an [open-source eCommerce stack named Trébol](https://github.com/trebol-ecommerce) (spanish for Clover, pronounced 'treble'), which is three things working together:
 - REST API specification
 - Angular frontend
 - Spring Boot backend
 
-I'm interested in a wide array of tech things, it just so happens that Internet is The Great Platform connecting most things today, and Web Browsers so happen to be the medium we all use the most, so the Web itself may be the single biggest community of them all. The Web is a great place to thrive, and its users are getting more and more into democratizing  knowledge; that's where I see future. Or at least that's my view on all of this.
+I'm interested in a wide array of tech things. At some point in the future I aim to learn and deep dive into (not orderly so):
+- Docker & containerization
+- Cybersecurity
+- DevOps
+- File systems (language-agnostic)
+- Rust
+- Go
+- Python
+- C
 
-Anyway, technical debt is always around the corner, so **Let's GET To IT!!!**
+It's all a lot of worka and a long roadmap indeed. So **Let's GET To IT!!!**
