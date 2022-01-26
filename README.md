@@ -14,14 +14,4 @@ I also develop an [open-source eCommerce stack named Trébol](https://github.com
 - Angular frontend
 - Spring Boot backend
 
-At some point in the future I aim to deep dive into, in no particular order:
-- Docker & containerization
-- Cybersecurity
-- DevOps
-- File systems (language-agnostic)
-- Rust
-- Go
-- Python
-- C
-
 It's all a lot of work, a long roadmap indeed. Let's not stay put; **Let's GET to IT!!!**
