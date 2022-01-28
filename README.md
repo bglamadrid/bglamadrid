@@ -5,7 +5,7 @@ __Greetings, beautiful people__ 👋
 Call me Benjamin, I'm a former IT/ETL consultant.
 
 Today I develop stuff for the web 💻💖
-I learn many things in hopes to eventually just develop many more 🦧! If that sounds crazy, it's because it probably is. [Just tell them that it's Human Nature](https://www.youtube.com/watch?v=ElN_4vUvTPs).
+I learn many things in hopes to eventually just develop many more 🦧! Does that sounds crazy? Well perhaps I am crazy!
 
 I'm CTO of a tiny marketing/software consultancy company based in Chile.
 
@@ -14,4 +14,9 @@ I also develop an [open-source eCommerce stack named Trébol](https://github.com
 - Angular frontend
 - Spring Boot backend
 
-It's all a lot of work, a long roadmap indeed. Let's not stay put; **Let's GET to IT!!!**
+It's all a lot of work. 
+
+
+Let's not stay put; **Let's GET to IT!!!**
+
+PS . I also hold an alt account [@12g](https://github.com/12g) for geekiest stuff that interests me. Gamedev, music, self-hosting, modding, haxxing, you name it.
