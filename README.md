@@ -14,9 +14,9 @@ I also develop an [open-source eCommerce stack named Trébol](https://github.com
 - Angular frontend
 - Spring Boot backend
 
-It's all a lot of work. 
+It's all a lot of work. And I still have troubles getting the hang of things without eventually burning out...
 
 
-Let's not stay put; **Let's GET to IT!!!**
+Anyway, let's keep genuinely **Doing our Best!!!**
 
 PS . I also hold an alt account [@12g](https://github.com/12g) for geekiest stuff that interests me. Gamedev, music, self-hosting, modding, haxxing, you name it.
