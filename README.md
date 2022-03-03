@@ -1,5 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=bglamadrid&color=brightgreen)
 
+>War and violence are never a good thing. But choosing a side without having prior knowledge about a conflict seems like a bad idea to me. 
+>I side with the victims, not the fighters, less so the hypocrites. And definitely I'm against those people spreading fake news all around in order to gather visitors, or whaatever damn reasons they may have.
+
+>What I hope is for conflict to be resolved with as little friction as possible. Human lives are precious! But I can't save that principle for "people" who think "they have rights" or "own" others. That's the scum of humanity right there.
+
+>Regardless of the situation, always investigate and make your own judgment, lest you be deceived, or worse, forced by society to take a side you aren't yet sure to take. Your decisions and stances should always remain your own!
+
 __Greetings, beautiful people__ 👋
 
 Call me Benjamin, I'm a former IT/ETL consultant.
