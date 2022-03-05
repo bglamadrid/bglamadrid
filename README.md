@@ -1,10 +1,11 @@
 ![](https://komarev.com/ghpvc/?username=bglamadrid&color=brightgreen)
 
-> War and violence are never a good thing. But choosing a side without having prior, proper knowledge about a conflict seems like a bad idea to me. I, for one, choose to side with the victims, not the fighters.
+> Russia vs Ukraine is a complicated matter. Conflicts have always been, and will probably be (I wish I would be wrong to think so) a part of how humans act. Honestly I feel super sorry for all the innocents people who never had have anything to do with the unfold of events there.
+> On the other hand though, I feel it is un-wise to side with either parts of the conflict without having prior, proper knowledge about it. War is never my option, but that doesn't mean it may never happen, even in my own face. And yet, when it comes to politics I will never trust those that cannot be trusted. Which are too many. Sorry to be so blunt about it.
+> What I do hope is for the war to be over soon, with as little friction as possible, because human lives are precious!
+> AND YET, I can't guarantee that principle I just addressed applies for certain `people` who think they `have birth rights`, `were born superior` or simply `own others`. As I see it, supporting or even allowing that kind of behavior is pretty much like defending hate speech in the name of freedom of speech; super hypocritical.
 
-> What I hope is for conflict to be resolved with as little friction as possible. Human lives are precious! But I can't guarantee that principle applies for "people" who think "they have rights" or "own" others. Freedom of speech shouldn't, mustn't include hate speech. That's hypocrisy (and coincidentally, the one rethoric defense most extremist people often pull out to shield themselves from judgment).
-
-> My point is that, regardless of the situation, always investigate and make your own mind, lest you be deceived, or worse, forced by any society to take a side you aren't yet sure to take. Your decisions and stances should always remain your own!
+> I hope you can see wher I'm coming from. Two final thoughts: regardless of any situation, always investigate and make your own mind, lest you be deceived, or worse, forced by any society to take a side you aren't yet sure to take. And if you can save the right to not take a choice, do save it. Your decisions and stances should always remain your own.
 
 __Greetings, beautiful people__ 👋
 
