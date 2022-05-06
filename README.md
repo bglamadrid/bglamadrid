@@ -7,7 +7,7 @@ Call me Benjamin, I'm a former IT/ETL consultant.
 Today I develop stuff for the web 💻💖
 I learn many things in hopes to eventually just develop many more 🦧!
 
-I'm CTO of a tiny marketing/software consultancy company based in Chile.
+I'm cofounder of a tiny marketing/software consultancy company based in Chile.
 
 I develop an [open-source eCommerce stack named Trébol](https://github.com/trebol-ecommerce) (spanish for Clover, pronounced 'treble'), which is three things working together:
 - REST API specification
