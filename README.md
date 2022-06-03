@@ -17,4 +17,4 @@ When I find it possible, I work in developing a MIT-licensed, open-source eComme
 
 And I guess that's all you may want to know from me at a first glance. Let us all do our **Best** today.
 
-PS . There's also this, I have a second account to separate work and personal goals from hobbies and geek interests (from which I have lots). That account is  [@12p](https://github.com/TwelveP).
+PS . Since you care enough to read, there's also this. I have a second account to separate -work and personal goals- from -hobbies and geek interests- (and there's lotsa them). That account is  [@12p!](https://github.com/TwelveP).
