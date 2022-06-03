@@ -2,18 +2,19 @@
 
 __Greetings, beautiful__ 👋
 
-Call me Benjamin, I'm a former IT/ETL consultant.
+Call me Benjamin, I'm a full-stack dev with a background in IT & ETL consultancy.
 
-Today I develop stuff for the web 💻💖
-I learn many things in hopes to eventually just develop many more 🦧!
+I develop stuff for the web, because it is a testament to the achievements of amazing people across time. 💻💖
 
-I'm cofounder of a tiny marketing/software consultancy company based in Chile.
+Plus, there's always something to learn in web development and the many roles that surround it. As an ambitious and curious individual (if a little slow every now and then), I always crave to learn new things! But I also enjoy the comfort of mastering and squeezing the tools that I like working with.
 
-I develop an [open-source eCommerce stack named Trébol](https://github.com/trebol-ecommerce) (spanish for Clover, pronounced 'treble'), which is three things working together:
+I'm cofounder of a very tiny marketing/software consultancy company based in Chile.
+
+When I find it possible, I work in developing a MIT-licensed, open-source eCommerce stack solution named [Trébol](https://github.com/trebol-ecommerce) (spanish for Clover, pronounced 'treble'), which is three things working together:
 - REST API specification
 - Angular frontend
 - Spring Boot backend
 
-Anyway, let's keep genuinely **Doing our Best!!!**
+And I guess that's all you may want to know from me at a first glance. Let us all do our **Best** today.
 
-PS . I hold a second account [@12g](https://github.com/12g) to separate work and personal goals from hobbies and geek interests (from which I have lots; gamedev, music, self-hosting, modding, low-level programming).
+PS . There's also this, I have a second account to separate work and personal goals from hobbies and geek interests (from which I have lots). That account is  [@12g](https://github.com/12g).
