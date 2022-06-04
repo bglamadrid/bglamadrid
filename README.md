@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=bglamadrid&color=brightgreen)
 
-__Greetings, beautiful__ 👋
+__Greetings__ 👋
 
 Call me Benjamin, I'm a full-stack dev with a background in IT & ETL consultancy.
 
