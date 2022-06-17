@@ -10,11 +10,6 @@ Plus, there's always something to learn in web development and the many roles th
 
 I'm cofounder of a very tiny marketing/software consultancy company based in Chile.
 
-When I find it possible, I work in developing a MIT-licensed, open-source eCommerce stack solution named [Trébol](https://github.com/trebol-ecommerce) (spanish for Clover, pronounced 'treble'), which is three things working together:
-- REST API specification
-- Angular frontend
-- Spring Boot backend
-
 And I guess that's all you may want to know from me at a first glance. Let us all do our **Best** today.
 
 PS . Since you care enough to read, there's also this. I have a second account to separate -work and personal goals- from -hobbies and geek interests- (and there's lotsa them). That account is  [@12p!](https://github.com/TwelveP).
