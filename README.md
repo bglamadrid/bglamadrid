@@ -12,4 +12,4 @@ I'm cofounder of a very tiny marketing/software consultancy company based in Chi
 
 Let's try and give it our all!
 
-PS . Since you care enough to read, check this out. I have a second account to separate -work and personal goals- from -hobbies and geek interests- (and there's lotsa' them). That account is [@12p!](https://github.com/TwelveP). 😬
+PS . Since you care enough to read, check this out. I have a second account to separate -work and personal goals- from -hobbies and geek interests- (and there's lotsa' them). That account is [@12p!](https://github.com/TwelveP?tab=stars). 😬
