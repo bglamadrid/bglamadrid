@@ -8,7 +8,7 @@ I develop stuff for the web, because it is a testament to the achievements of am
 
 Plus, there's always something to learn in web development and the many roles that surround it. As an ambitious, curious yet perfectionist individual, I crave to learn new things! But I also enjoy the comfort of mastering, -squeezing to get the most out of- the tools that I like working with already.
 
-I'm cofounder of a very tiny marketing/software consultancy company based in Chile.
+I'm cofounder of a very tiny advertising/software consultancy company based in Chile.
 
 Let's try and give it our all!
 
