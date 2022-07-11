@@ -12,4 +12,4 @@ I'm cofounder of a very tiny advertising/software consultancy company based in C
 
 Let's try and give it our all!
 
-PS . Since you've come this far to read down here, check this out: I have a second account to separate -work and career goals- from -hobbies, geeky and niche interests- (and there's a pretty wild and spare list of them). That second account is [@12p!](https://github.com/TwelveP?tab=stars). Have fun 😬
+PS . Since you've come this far to read down here, check this out: I have a second account to separate -work and career goals- from -hobbies, geeky and niche interests- (and there's a pretty wild and sparse list of them). That second account is [@12p!](https://github.com/TwelveP?tab=stars). Have fun 😬
